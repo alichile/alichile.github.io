@@ -1,7 +1,7 @@
 contact:
     name: Alicia Roedell
     summary: Quality Assurance Specialitist
-    avatar: img.n3VNCb
+    avatar: photo.jpeg
 
     # Sidebar links
     email: alichile9@gmail.com # full email address
@@ -17,10 +17,12 @@ contact:
     osf: # your Open Science Framework username
 
 education:
-    - College: Saint Petersburg College
+    - 
+    College: Saint Petersburg College
       time: 2010 - 2012
 
-    - High School: Bayside High School
+    - 
+    High School: Bayside High School
       time: 2006 - 2010
 
 skills:
