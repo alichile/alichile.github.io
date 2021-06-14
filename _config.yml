@@ -3,7 +3,7 @@
 # Site Settings
 
 url: ''
-baseurl: '' alichile.github.io
+baseurl: '' # alichile.github.io
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: ncsu # blue turquoise green berry orange ceramic ncsu
 
@@ -12,8 +12,8 @@ display:
   career-profile: true
   education: true
   professional-experience: true
-  publications: true
-  presentations: true
+  publications: false
+  presentations: false
   skills: true
 
 collections:
